@@ -1,4 +1,4 @@
-valor,sectorEconomico,periodo,tipoEntidad,entidad,tipoIndicador,indicador
+deuda,sectorEconomico,periodo,tipoEntidad,entidad,tipoIndicador,indicador
 256918.63,"E - SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO",2018-01,CORPORACIONES DE CRÉDITO,TODOS,Cartera de credito,Cartera de credito
 328739.76,"K - ACTIVIDADES INMOBILIARIAS, ALQUILER Y ACTIVIDADES EMPRESARIALES",2018-01,ENTIDADES PÚBLICAS DE INTERMEDIACIÓN FINANCIERA,TODOS,Cartera de credito,Cartera de credito
 391668.9,B - PESCA,2018-01,CORPORACIONES DE CRÉDITO,TODOS,Cartera de credito,Cartera de credito
@@ -9869,3 +9869,4 @@ valor,sectorEconomico,periodo,tipoEntidad,entidad,tipoIndicador,indicador
 441033815188.24005,Z - COMPRA Y REMODELACIÓN DE VIVIENDAS,2025-11,TODOS,TODOS,Cartera de credito,Cartera de credito
 548805992390.58093,Y - CONSUMO DE BIENES Y SERVICIOS,2025-11,BANCOS MÚLTIPLES,TODOS,Cartera de credito,Cartera de credito
 649689778474.6108,Y - CONSUMO DE BIENES Y SERVICIOS,2025-11,TODOS,TODOS,Cartera de credito,Cartera de credito
+
